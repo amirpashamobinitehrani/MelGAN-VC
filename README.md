@@ -7,4 +7,3 @@ Use the provided notebook to experiment yourself with MelGAN-VC.
 
 Requirement: Tensorflow 2.0 or higher.
 
-Have fun!
